@@ -9,11 +9,11 @@ Apache Airflow is a tool that helps manage and arrange a lot of data work. It's 
 
  Why Use Apache Airflow?
 
-- Easy Planning with Python**: You can use Python, a programming language, to tell Airflow how to move your data.
-- Flexible**: Airflow can change depending on what your data needs.
-- Easy to Check on Data**: It has a good screen where you can see what your data is doing.
-- Can Handle Lots of Data**: Airflow is really good at working with big or complicated data stuff.
-- Lots of Support**: Many people use Airflow, so there's a lot of help and new stuff added often.
+- Easy Planning with Python : You can use Python, a programming language, to tell Airflow how to move your data.
+- Flexible : Airflow can change depending on what your data needs.
+- Easy to Check on Data : It has a good screen where you can see what your data is doing.
+- Can Handle Lots of Data : Airflow is really good at working with big or complicated data stuff.
+- Lots of Support : Many people use Airflow, so there's a lot of help and new stuff added often.
 
  What Does This Project Do?
 
